@@ -1,3 +1,3 @@
-# Little-Wing-Project
+# Little Wing Project
 
-* [Imaging & Data Visualisation](https://github.com/Scott-McNab/Little-Wing-Project/blob/master/LittleWing.pdf)
+* [Little Wing PDF](https://github.com/Scott-McNab/Little-Wing-Project/blob/master/LittleWing.pdf)
